@@ -1,0 +1,31 @@
+#root {
+  margin: 0 auto;
+  padding: 0 2rem;
+  text-align: center;
+}
+
+.image-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(700px,2fr));
+  gap: 1rem;
+  padding: 20px;
+  overflow: hidden;
+
+  /* grid-template-rows: repeat(1fr); */
+}  
+
+.image-container img {
+  object-fit: fill;
+  /* height: auto; */
+  width: 100%;
+  transition: .3s all ease;
+}
+
+.image-container img:hover{
+
+  scale: 1.01;
+}
+
+.download-btn{
+  background-color: rgb(39, 245, 73);
+}
