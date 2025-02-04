@@ -17,14 +17,14 @@ ImageRealm is a React-based project that fetches and displays images using an AP
 -you can download images free
 - Search functionality to filter images
 - Lightweight and fast rendering
-- 
+  
 
 
 
 ## Technologies Used
 - React.js
 - CSS 
-- Fetch API
+- HTML
 
 
 
