@@ -23,6 +23,7 @@ ImageRealm is a React-based project that fetches and displays images using an AP
 
 ## Technologies Used
 - React.js
+- Javascript
 - CSS 
 - HTML
 
