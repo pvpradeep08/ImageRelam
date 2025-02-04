@@ -7,7 +7,27 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-added test line
+# ImageRealm
+
+ImageRealm is a React-based project that fetches and displays images using an API. It provides a seamless user experience for browsing and viewing images dynamically.
+
+## Features
+- Fetches images from an external API
+- Displays images in a grid format
+-you can download images free
+- Search functionality to filter images
+- Lightweight and fast rendering
+- 
+
+
+
+## Technologies Used
+- React.js
+- CSS 
+- Fetch API
+
+
+
 
 ![alt text](doc/images/Screenshot1.png)
 
